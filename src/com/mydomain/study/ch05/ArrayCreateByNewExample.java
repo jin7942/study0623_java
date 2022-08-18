@@ -11,6 +11,7 @@ public class ArrayCreateByNewExample {
 		
 		arr1[0] = 77;
 		System.out.println("arr1[0] : " + arr1[0]);
+		System.out.println("arr2[0] : " + arr2[0]);
 	}
 
 }
