@@ -14,6 +14,7 @@ public class ArrayInArrayExample {
 				{ 55, 33, 44 }, 
 				{ 97, 88, 11 }, 
 		};
+		
 	
 		String student[] = { "장원영", "장동건", "고소영", "배유빈", "유시아" };
 		
