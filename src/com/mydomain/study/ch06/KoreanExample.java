@@ -12,7 +12,7 @@ public class KoreanExample {
 		System.out.println("k2.name : " + k2.name);
 		System.out.println("k2.age : " + k2.age);
 
-		
+		System.out.println(Korean.nationality);
+		System.out.println(Korean.statiTest(10));
 	}
-
 }

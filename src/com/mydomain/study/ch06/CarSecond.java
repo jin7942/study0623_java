@@ -15,7 +15,7 @@ public class CarSecond {
 		this.cc = cc;
 	}
 	
-	CarSecond(String name, String color, int c) {
+	CarSecond(String name, String color, int cc) {
 		this.name = name;
 		this.color = color;
 		this.cc = cc;
