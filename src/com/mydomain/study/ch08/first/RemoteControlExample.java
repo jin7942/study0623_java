@@ -8,7 +8,7 @@ public class RemoteControlExample {
 		remoteControl.turnOn();
 		remoteControl.setMute(true);
 		remoteControl.setMute(false);
-		remoteControl.setVolume(-10);
+		remoteControl.setVolume(10);
 		RemoteControl.changeBattery();
 		remoteControl.turnOff();
 
