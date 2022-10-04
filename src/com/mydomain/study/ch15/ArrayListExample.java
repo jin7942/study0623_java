@@ -38,7 +38,7 @@ public class ArrayListExample {
 			String str = list.get(i);
 			System.out.println(i + ":" + str);
 		}
-
+		/* hello */
 	}
 
 }
